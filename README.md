@@ -1,1 +1,0 @@
-# collage-food-analysis
